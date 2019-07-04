@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<d:multistatus xmlns:d="DAV:">
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sat, 29 Jun 2019 17:38:23 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>122704850</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;b88d20786e4f058b377810c3add05c87&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/nextcloud-16.0.1.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Wed, 15 May 2019 14:46:55 GMT</d:getlastmodified>
+                <d:getcontentlength>121671144</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;600a2d1802809df17d07636d25e3447f&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:quota-used-bytes/>
+                <d:quota-available-bytes/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/Nut.jpg</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Tue, 18 Jun 2019 11:17:03 GMT</d:getlastmodified>
+                <d:getcontentlength>955026</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;ada196b34728ac7c290ddb623d3cd485&quot;</d:getetag>
+                <d:getcontenttype>image/jpeg</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:quota-used-bytes/>
+                <d:quota-available-bytes/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>
+            /remote.php/dav/files/Admin/%d0%ad%d0%ba%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd.19.06.2019.%d0%a0%d0%93%d0%9f%d0%a3/
+        </d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Wed, 19 Jun 2019 21:45:09 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>0</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;5d0aace5065ae&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength/>
+                <d:getcontenttype/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/%d0%ad%d0%ba%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%2020.06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Thu, 20 Jun 2019 15:02:00 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>0</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;5d0b9fe841e1f&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength/>
+                <d:getcontenttype/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/%d0%ad%d0%ba%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%2020%20(2).06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Thu, 20 Jun 2019 15:03:45 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>0</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;5d0ba05162da3&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength/>
+                <d:getcontenttype/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/%d0%ad%d0%ba%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%2020%20(3).06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Thu, 20 Jun 2019 15:06:19 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>0</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;5d0ba0eb40fdf&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength/>
+                <d:getcontenttype/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/%d0%ad%d0%ba%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%2020%20(4).06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sat, 29 Jun 2019 17:38:23 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>0</d:quota-used-bytes>
+                <d:quota-available-bytes>-3</d:quota-available-bytes>
+                <d:getetag>&quot;5d17a20fed406&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength/>
+                <d:getcontenttype/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/remote.php/dav/files/Admin/%d0%a4%d0%9e%d0%9d.jpg</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Thu, 20 Jun 2019 15:24:50 GMT</d:getlastmodified>
+                <d:getcontentlength>78680</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;e1f4e4677b737ad405318ee9c97d3da8&quot;</d:getetag>
+                <d:getcontenttype>image/jpeg</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:quota-used-bytes/>
+                <d:quota-available-bytes/>
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+</d:multistatus>
